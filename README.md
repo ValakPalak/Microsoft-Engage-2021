@@ -51,8 +51,13 @@ It is developed using *Scrum Methodology* of Agile Development with four sprints
 
 ### Disclaimer
   ``` sh
-  Peer-to-peer connection will not be established by just cloning this repository. You will need to implement
-  your TURN server and integrate firebase database with it. (Steps mentioned in Installation section)
+  Peer-to-peer connection will not be established over different networks by just cloning this repository. Turn Server 
+  should also be implemented to build a P2P Connection over different networks. Otherwise, you may run the application
+  on Local Network. 
+  
+  You will need to integrate firebase database with the application to store chat for future use.
+  
+  (Steps mentioned in Installation section)
   ```
 
 <!-- GETTING STARTED -->
@@ -97,7 +102,9 @@ This is an example of how to list things you need to use the software and how to
    ``` 
 7. Add your TURN SERVER Credentials (Lines 51-55) in `script.js`
 8. While hosting on Heroku, Uncomment Lines 39-56 in `script.js` 
-
+9. To run the application on Local Host
+   - Open the command prompt from your project directory and run the command ```npm start```.
+   - Go to your browser and type http://localhost:3030/ in the address bar.
 
 <!-- USAGE EXAMPLES -->
 
