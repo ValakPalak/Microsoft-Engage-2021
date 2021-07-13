@@ -51,8 +51,8 @@ It is developed using *Scrum Methodology* of Agile Development with four sprints
 
 ### Disclaimer
   ``` sh
-  Peer-to-peer connection will not be established by just cloning this repository. You will need to implement your 
-  TURN server and integrate firebase database with it. (Steps mentioned in Installation section)
+  Peer-to-peer connection will not be established by just cloning this repository. You will need to implement
+  your TURN server and integrate firebase database with it. (Steps mentioned in Installation section)
   ```
 
 <!-- GETTING STARTED -->
