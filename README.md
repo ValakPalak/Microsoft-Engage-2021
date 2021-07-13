@@ -51,8 +51,8 @@ It is developed using *Scrum Methodology* of Agile Development with four sprints
 
 ### Disclaimer
   ``` sh
-  Peer-to-peer connection will not be established by just cloning this repository. You will need to implement your TURN 
-  server and integrate firebase database with it. (Steps mentioned in Installation section)
+  Peer-to-peer connection will not be established by just cloning this repository. You will need to implement your 
+  TURN server and integrate firebase database with it. (Steps mentioned in Installation section)
   ```
 
 <!-- GETTING STARTED -->
@@ -91,6 +91,7 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 6. Enter your API in `.env` file. Refer `.env_sample`
+
    ``` sh
    API_KEY = 'ENTER YOUR API';
    ``` 
@@ -165,4 +166,4 @@ This is an example of how to list things you need to use the software and how to
 
 Palak Kothari - [@PalakKothari](https://www.linkedin.com/in/palakothari/) - pkothari@iitg.ac.in
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/ValakPalak/Microsoft-Engage-2021](https://github.com/ValakPalak/Microsoft-Engage-2021)
